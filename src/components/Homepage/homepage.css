@@ -1,0 +1,31 @@
+.navbar-nav.nav-left {
+    text-align: left;
+  }
+  
+  .nav-item.home-link {
+    text-align: center;
+  }
+/* Style for the navbar links */
+.navbar-nav .nav-link {
+    color: #000;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  /* Hover effect for navbar links */
+  .navbar-nav .nav-link:hover {
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 5px;
+  }
+  
+  /* Animation for the navbar collapse button */
+  .navbar-toggler-icon {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  /* Animation for the navbar collapse button when clicked */
+  .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
+    transform: rotate(90deg);
+  }
+ 
+  

@@ -1,0 +1,44 @@
+.dashboard-card {
+    background-color: #fff;
+    border-radius: 10px;
+  }
+  
+  .dashboard-title {
+    color: #333;
+    font-size: 24px;
+  }
+  
+  .dashboard-data-box {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .dashboard-label {
+    color: rgb(0, 102, 51);
+  }
+  
+  .dashboard-value {
+    color: rgb(102, 0, 51);
+  }
+  
+  .dashboard-icon {
+    color: rgb(153, 0, 0);
+  }
+  
+  .dashboard-profile-picture {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .dashboard-default-profile-picture {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(204, 204, 204);
+  }
+  

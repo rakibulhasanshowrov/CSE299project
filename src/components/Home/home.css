@@ -1,0 +1,37 @@
+.home-container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .home-content {
+    text-align: center;
+    color: #fff;
+    color: whitesmoke;
+  }
+  
+  .home-content h1 {
+    font-size: 4rem;
+    color: whitesmoke;
+  }
+  
+  .home-content p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    color: whitesmoke;
+  }
+  
+  @media (max-width: 768px) {
+    .home-content h1 {
+      font-size: 3rem;
+      color: whitesmoke;
+    }
+    .home-content p {
+      font-size: 1.2rem;
+      color: whitesmoke;
+    }
+  }
+  
